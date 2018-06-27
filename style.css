@@ -1,0 +1,47 @@
+h2{
+    margin-left: 230px;
+    margin-bottom: 90%;
+}
+.centered {
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-size: 100px;
+}
+#middleSection{
+    height: 200px;
+}
+#DTRMN{
+    margin-left: 280px;
+}
+#Heading{
+    position: relative;
+    height: 1px;
+}
+#PARA{
+    margin-left: 200px;
+    height: 100px;
+}
+.paragraph{
+    position: absolute;
+    left: 90px;
+    top: 570px;
+}
+#OVRTHNKNG{
+    position: relative;
+    height: 100px;
+    left: 560px;
+}
+.paragraph2{
+    margin-bottom: 100px;
+}
+#BottomSection{
+    postition:relative;   
+}
+.paragraph2{
+    position: absolute;
+    left:800px;
+    top:800px;
+}
